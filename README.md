@@ -7,4 +7,5 @@ This project is Todo List Board 🗓
 - React
 - JavaScript
 - CSS
+- HTML
 
